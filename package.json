@@ -10,7 +10,6 @@
     "deploy:github": "vite build && gh-pages -d docs -b gh-pages"
   },
   "dependencies": {
-    "gsap": "^3.12.7",
     "three": "^0.175.0",
     "vue": "^3.5.13"
   },
